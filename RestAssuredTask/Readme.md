@@ -11,7 +11,7 @@
 
 [bestbuy API](https://github.com/BestBuy/api-playground) : follow Instructions in Getting started section
 
-TestNG : From eclipse marketplace
+TestNG 
 
 
 ## 📝 What this solution covers?
@@ -26,5 +26,5 @@ TestNG : From eclipse marketplace
 1) Design pattern for APIs
 2) more Generic way for Data Driven
 
-## 📝 Attachments
-[Testcases](https://docs.google.com/spreadsheets/d/1mRdfVT4bmNgax9_ONKmKxAx-fKzzAzmI8NbKbmqgjX4/edit?usp=sharing)
+## 📝 Test Cases
+- Check The excel sheet in the repository
