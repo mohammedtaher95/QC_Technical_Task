@@ -25,3 +25,6 @@ so Edit icon shouldn't be displayed in this case
 ### Severity:
 - Low
 
+### Attachments:
+https://github.com/mohammedtaher95/QC_Technical_Task/assets/57681860/ced75348-c2c9-4bb5-98eb-67eb139c637f
+
