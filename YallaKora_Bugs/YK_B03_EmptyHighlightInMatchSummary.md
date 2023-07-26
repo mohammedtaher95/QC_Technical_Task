@@ -25,3 +25,5 @@
 ### Severity:
 - Low
 
+### Attachments:
+![Screenshot_20230725_224925_Yallakora (1)](https://github.com/mohammedtaher95/QC_Technical_Task/assets/57681860/fbd536b6-a699-4427-90e8-f9579507c911)
