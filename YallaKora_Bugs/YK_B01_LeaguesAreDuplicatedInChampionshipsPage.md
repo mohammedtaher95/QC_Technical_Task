@@ -24,3 +24,7 @@
 ### Severity:
 - Medium
 
+### Attachments:
+
+https://github.com/mohammedtaher95/QC_Technical_Task/assets/57681860/afdbb7c1-3f37-4016-902e-7bb9df301225
+
